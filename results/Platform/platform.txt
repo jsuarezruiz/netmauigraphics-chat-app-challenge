@@ -1,0 +1,36 @@
+06-20 10:54:15.526  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +738ms
+06-20 10:54:17.489  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +736ms
+06-20 10:54:19.453  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +722ms
+06-20 10:54:21.410  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +715ms
+06-20 10:54:23.316  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +714ms
+06-20 10:54:25.242  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +714ms
+06-20 10:54:27.205  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +712ms
+06-20 10:54:29.150  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +715ms
+06-20 10:54:31.076  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +706ms
+06-20 10:54:33.016  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.chatapp/crc64f75cf9971e046ff9.MainActivity: +697ms
+Average(ms): 716.9
+Std Err(ms): 3.9425034347903
+Std Dev(ms): 12.4672905369745
+
+App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:     7576                          18704
+         Native Heap:    35968                          36968
+                Code:    36036                         110928
+               Stack:      608                            616
+            Graphics:    39368                          39368
+       Private Other:    31952
+              System:     5864
+             Unknown:                                   34292
+
+           TOTAL PSS:   157372            TOTAL RSS:   240876       TOTAL SWAP PSS:      434
+
+ Objects
+               Views:      130         ViewRootImpl:        1
+         AppContexts:        6           Activities:        1
+              Assets:       31        AssetManagers:        0
+       Local Binders:       17        Proxy Binders:       37
+       Parcel memory:        4         Parcel count:       17
+    Death Recipients:        1      OpenSSL Sockets:        0
+            WebViews:        0
