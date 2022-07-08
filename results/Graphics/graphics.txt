@@ -1,0 +1,27 @@
+07-08 19:56:03.793  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +426ms
+07-08 19:56:05.414  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +434ms
+07-08 19:56:07.038  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +431ms
+07-08 19:56:08.681  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +444ms
+07-08 19:56:10.283  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +434ms
+07-08 19:56:11.889  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +430ms
+07-08 19:56:13.513  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +430ms
+07-08 19:56:15.101  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +437ms
+07-08 19:56:16.725  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +436ms
+07-08 19:56:18.328  1990  2087 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +419ms
+Average(ms): 432.1
+Std Err(ms): 2.12629045784227
+Std Dev(ms): 6.72392081386382
+
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:     2452                          10644
+         Native Heap:    21848                          22828
+                Code:    19356                         100032
+               Stack:      484                            492
+            Graphics:    17672                          17672
+       Private Other:    31180
+              System:    10121
+             Unknown:                                   33564
+
+           TOTAL PSS:   103113            TOTAL RSS:   185232       TOTAL SWAP PSS:      625
