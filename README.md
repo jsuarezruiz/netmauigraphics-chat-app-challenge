@@ -1,3 +1,13 @@
+# ChatApp Challenge using .NET MAAUI Graphics
+
+Chat App UI Challenge made with .NET MAUI Graphics. The entire user interface is rendered using .NET MAUI Graphics. The App has a single native view that creates a Canvas where we draw everything.
+
+![ChatApp](images/chatapp-maui.png)
+
+## Benchmarks
+
+Next, we have a comparison between the same [App created with .NET MAUI](https://github.com/jsuarezruiz/netmaui-chat-app-challenge) (native controls) and a version created entirely with MAUI Graphics.
+
 _NOTE: A Poco F2 Pro has been used to obtain the data._
 
 #### Startup time
