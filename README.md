@@ -4,6 +4,8 @@ Chat App UI Challenge made with .NET MAUI Graphics. The entire user interface is
 
 ![ChatApp](images/chatapp-maui.png)
 
+(Work in progress)
+
 Based on this [design](https://dribbble.com/shots/11470136-A-Messaging-App-Concept) by [Tannaz Sadeghi](https://dribbble.com/tannazsadeghi).
 
 ## Benchmarks
