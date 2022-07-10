@@ -17,7 +17,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | Android App | Framework           | Profiled AOT Time (ms) |
 |-------------|---------------------| ---------------------:|
 | ChatApp    |  .NET MAUI GA SR1 (Native Views)         |                716.9 |
-| ChatApp    |  .NET MAUI GA SR1 (Drawn Views)          |                432.1 |
+| ChatApp    |  .NET MAUI GA SR1 (Drawn Views)          |                432.1 (39.8% lower) |
 
 (lower values are better)
 
@@ -28,7 +28,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | Android App | Framework           | Profiled AOT Time(MBs) |
 |-------------|---------------------| ---------------------:|
 | ChatApp    |  .NET MAUI GA SR1 (Native Views)         |                240.876 |
-| ChatApp    |  .NET MAUI GA SR1 (Drawn Views)          |                180.890 |
+| ChatApp    |  .NET MAUI GA SR1 (Drawn Views)          |                180.890 (25% lower) |
 
 (lower values are better)
 
