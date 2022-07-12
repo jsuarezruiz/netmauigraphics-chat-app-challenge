@@ -1,0 +1,13 @@
+07-12 19:47:15.996  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +532ms
+07-12 19:47:17.698  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +512ms
+07-12 19:47:19.388  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +522ms
+07-12 19:47:21.077  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +510ms
+07-12 19:47:22.783  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +517ms
+07-12 19:47:24.489  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +517ms
+07-12 19:47:26.197  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +512ms
+07-12 19:47:27.902  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +514ms
+07-12 19:47:29.624  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +513ms
+07-12 19:47:31.330  1859  1999 I ActivityTaskManager: Displayed com.companyname.graphicschatapp/crc6422b76dbcab1c45ea.MainActivity: +496ms
+Average(ms): 514.5
+Std Err(ms): 2.89155859548291
+Std Dev(ms): 9.14391114956347
