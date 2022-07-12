@@ -18,18 +18,18 @@ namespace GraphicsChatApp.Views
 
 
             // Using .NET MAUI Graphics with Native drawing APIs
-            /*
             Content = new GraphicsView
             {
                 Drawable = detailDrawable
             };
-            */
 
             // Using .NET MAUI Graphics with SkiaSharp
+            /*
             Content = new Controls.SkiaGraphicsView
             {
                 Drawable = detailDrawable
             };
+            */
         }
     }
 

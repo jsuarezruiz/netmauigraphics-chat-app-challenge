@@ -21,18 +21,18 @@ public class HomeView : ContentPage
         };
 
         // Using .NET MAUI Graphics with Native drawing APIs
-        /*
         Content = new GraphicsView
         {
             Drawable = homeDrawable
         };
-        */
 
         // Using .NET MAUI Graphics with SkiaSharp
+        /*
         Content = new Controls.SkiaGraphicsView
         {
             Drawable = homeDrawable
         };
+        */
     }
 }
 
