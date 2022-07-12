@@ -14,13 +14,24 @@ public class HomeView : ContentPage
 {
     public HomeView()
     {
+        var homeDrawable = new HomeDrawable
+        {
+            Users = new ObservableCollection<User>(MessageService.Instance.GetUsers()),
+            RecentChat = new ObservableCollection<Message>(MessageService.Instance.GetChats())
+        };
+
+        // Using .NET MAUI Graphics with Native drawing APIs
+        /*
         Content = new GraphicsView
         {
-            Drawable = new HomeDrawable
-            {
-                Users = new ObservableCollection<User>(MessageService.Instance.GetUsers()),
-                RecentChat = new ObservableCollection<Message>(MessageService.Instance.GetChats())
-            }
+            Drawable = homeDrawable
+        };
+        */
+
+        // Using .NET MAUI Graphics with SkiaSharp
+        Content = new Controls.SkiaGraphicsView
+        {
+            Drawable = homeDrawable
         };
     }
 }

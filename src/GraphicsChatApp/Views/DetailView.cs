@@ -10,14 +10,26 @@ namespace GraphicsChatApp.Views
         {
             var user = MessageService.Instance.GetUsers()[0];
 
+            var detailDrawable = new DetailDrawable
+            {
+                User = user,
+                Messages = new ObservableCollection<Message>(MessageService.Instance.GetMessages(user))
+            };
+
+
+            // Using .NET MAUI Graphics with Native drawing APIs
+            /*
             Content = new GraphicsView
             {
-                Drawable = new DetailDrawable
-                {   
-                    User = user,
-                    Messages = new ObservableCollection<Message>(MessageService.Instance.GetMessages(user))
-                }
-            }; 
+                Drawable = detailDrawable
+            };
+            */
+
+            // Using .NET MAUI Graphics with SkiaSharp
+            Content = new Controls.SkiaGraphicsView
+            {
+                Drawable = detailDrawable
+            };
         }
     }
 

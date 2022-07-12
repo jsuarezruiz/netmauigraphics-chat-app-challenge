@@ -82,5 +82,9 @@
 	  <EmbeddedResource Include="Resources\emoji8.png" />
 	  <EmbeddedResource Include="Resources\emoji9.png" />
 	</ItemGroup>
-
+	
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Maui.Graphics.Skia" Version="6.0.403" />
+	</ItemGroup>
+	
 </Project>
